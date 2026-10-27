@@ -1,27 +1,4 @@
-#!/usr/bin/env python3
-# Copyright (c) 2026 VaultIQ Inc. All rights reserved.
-#
-# Proprietary and Confidential.
-#
-# This file and the source code contained herein are the exclusive property of
-# VaultIQ Inc. The intellectual and technical concepts contained herein are
-# proprietary to VaultIQ Inc. and are protected by copyright law, trade secret
-# law, and applicable confidentiality obligations.
-#
-# Access to this source code is restricted to authorized employees, contractors,
-# or agents of VaultIQ Inc. who are bound by written confidentiality,
-# nondisclosure, employment, contractor, license, or other agreements expressly
-# covering such access.
-#
-# Unauthorized use, copying, reproduction, modification, publication,
-# distribution, disclosure, display, or transmission of this file, in whole or
-# in part, is strictly prohibited without the prior written permission of
-# VaultIQ Inc.
-#
-# The copyright notice above does not evidence any actual or intended
-# publication or disclosure of this source code, which includes confidential,
-# proprietary, and/or trade secret information of VaultIQ Inc.
-
+##hello This is testing
 """
 Stop Ray processes for a specific developer
 Safely terminates local Ray processes without affecting other users
